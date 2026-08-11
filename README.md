@@ -1,4 +1,5 @@
 ## Hi there 👋
+- 🔭 I’m an ML and CE enthusiast who loves diving into applications related to sustainability! 
 
 <!--
 **siri-kadalbal/siri-kadalbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
